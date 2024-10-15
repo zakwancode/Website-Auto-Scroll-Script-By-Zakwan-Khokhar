@@ -2,6 +2,13 @@
 Credit : https://zShama.com
 
 
+This code uses the window.scrollTo() method to scroll to the specified element. The behavior property is set to 'smooth' to enable smooth scrolling.
+
+If you want to auto-scroll to a specific element when the page loads, you can add an event listener to the window object.
+
+This code will scroll to the specified element when the page finishes loading.
+
+
 "This project utilizes various open-source libraries and resources. A special thanks to the developers and maintainers of these projects for their contributions to the open-source community.
 
 Font Awesome by Font Awesome (https://fontawesome.com/) Other dependencies (list other dependencies used in the project)

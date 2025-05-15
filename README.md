@@ -1,5 +1,5 @@
 # Website-Auto-Scroll-Script-By-Zakwan-Khokhar
-Credit : https://zShama.com
+
 
 
 This code uses the window.scrollTo() method to scroll to the specified element. The behavior property is set to 'smooth' to enable smooth scrolling.
@@ -13,15 +13,15 @@ This code will scroll to the specified element when the page finishes loading.
 
 Font Awesome by Font Awesome (https://fontawesome.com/) Other dependencies (list other dependencies used in the project)
 
-Repository: zShama.com Author: Zakwan Khokhar License: (list the license used for the repository, e.g. MIT, Apache 2.0, etc.)
+Author: Zakwan Khokhar License: (list the license used for the repository, e.g. MIT, Apache 2.0, etc.)
 
 Acknowledgement:
 
-The zShama.com repository is an open-source project created and maintained by Zakwan Khokhar. The project is licensed under (list the license used for the repository). By using this repository, you agree to the terms and conditions of the license.
+The repository is an open-source project created and maintained by Zakwan Khokhar. The project is licensed under (list the license used for the repository). By using this repository, you agree to the terms and conditions of the license.
 
 Contributions:
 
-Contributions to the zShama.com repository are welcome. If you'd like to contribute to the project, please fork the repository and submit a pull request. Your contributions will be acknowledged and appreciated.
+Contributions to repository are welcome. If you'd like to contribute to the project, please fork the repository and submit a pull request. Your contributions will be acknowledged and appreciated.
 
 Disclaimer:
 

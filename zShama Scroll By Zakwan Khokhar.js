@@ -32,6 +32,6 @@
 
 // Disclaimer:
 
-// The zShama.com repository is provided 'as is' without any warranty of any kind, express 
+// The zCode Repository is provided 'as is' without any warranty of any kind, express 
 // or implied. In no event shall the authors or copyright holders be liable for any claim, 
 // damages, or other liability arising from the use of this repository or any of its contents."
